@@ -18,4 +18,4 @@ Prerequisites: Python3, pipenv
 4. Run the script (python index.py)
 
 ## Video Demo
-coming soom
+https://youtu.be/XCgxEdNY0ZE
